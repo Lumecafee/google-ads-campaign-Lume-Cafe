@@ -95,3 +95,67 @@ Instead, it emphasizes:
 ---
 
 ## 📂 Project Structure
+
+google-ads-campaign-lume-cafe/
+│
+├── proposal/
+│ └── campaign_proposal.pdf
+│
+├── ads/
+│ ├── search_ads.txt
+│ └── display_ads.png
+│
+├── report/
+│ └── final_report.pdf
+│
+└── assets/
+└── images/
+
+
+---
+
+## 📊 Key Learnings
+
+- Marketing is not just visibility — it is **perception design**  
+- Emotional and aesthetic positioning significantly impact engagement  
+- Premium brands benefit from **restraint over volume**  
+- Long-tail keywords improve targeting efficiency  
+
+---
+
+## ⚠️ Challenges Faced
+
+- High competition for generic keywords  
+- Balancing minimal design with performance-driven messaging  
+- Maintaining premium positioning while optimizing for clicks  
+
+---
+
+## 💡 Recommendations
+
+- Implement retargeting campaigns  
+- A/B test emotional vs functional messaging  
+- Improve landing page visual storytelling  
+- Increase budget allocation for high-performing keywords  
+
+---
+
+## 🛠️ Tools Used
+- Google Ads (simulated campaign setup)  
+- Canva (ad creatives)  
+- Keyword research tools  
+
+---
+
+## 👩‍💻 Author
+**Anushka Kokate**  
+B.Sc. Clinical Psychology | Aspiring Digital Marketing Professional  
+
+---
+
+## © Copyright
+
+This project is the original work of Anushka Kokate.
+
+All rights reserved. This repository is shared for academic submission purposes only.  
+No part of this work may be copied, reproduced, distributed, or used without explicit permission.
